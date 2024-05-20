@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 
 # Para correr en local
+- yarn install
 - yarn dev
